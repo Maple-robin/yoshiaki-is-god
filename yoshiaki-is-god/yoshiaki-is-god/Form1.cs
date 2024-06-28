@@ -6,5 +6,10 @@ namespace yoshiaki_is_god
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
