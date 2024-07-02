@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kaede\\Documents\\\u7FA9\u7AE0\u795E\\yoshiaki-is-god\\yoshiaki-is-god\\",
+  "WorkspaceRootPath": "C:\\Users\\kopoa\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\\u958B\u767A(\u524D\u671F\uFF09\\yoshiaki-is-god\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{764D35F9-D4DF-4D72-AD13-3C2AD44F26A4}|yoshiaki-is-god\\yoshiaki-is-god.csproj|c:\\users\\kaede\\documents\\\u7FA9\u7AE0\u795E\\yoshiaki-is-god\\yoshiaki-is-god\\yoshiaki-is-god\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{764D35F9-D4DF-4D72-AD13-3C2AD44F26A4}|yoshiaki-is-god\\yoshiaki-is-god.csproj|c:\\users\\kopoa\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\\u958B\u767A(\u524D\u671F\uFF09\\yoshiaki-is-god\\yoshiaki-is-god\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{764D35F9-D4DF-4D72-AD13-3C2AD44F26A4}|yoshiaki-is-god\\yoshiaki-is-god.csproj|solutionrelative:yoshiaki-is-god\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764D35F9-D4DF-4D72-AD13-3C2AD44F26A4}|yoshiaki-is-god\\yoshiaki-is-god.csproj|c:\\users\\kopoa\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\\u958B\u767A(\u524D\u671F\uFF09\\yoshiaki-is-god\\yoshiaki-is-god\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{764D35F9-D4DF-4D72-AD13-3C2AD44F26A4}|yoshiaki-is-god\\yoshiaki-is-god.csproj|solutionrelative:yoshiaki-is-god\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,15 +18,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kopoa\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\\u958B\u767A(\u524D\u671F\uFF09\\yoshiaki-is-god\\yoshiaki-is-god\\Program.cs",
+              "RelativeDocumentMoniker": "yoshiaki-is-god\\Program.cs",
+              "ToolTip": "C:\\Users\\kopoa\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\\u958B\u767A(\u524D\u671F\uFF09\\yoshiaki-is-god\\yoshiaki-is-god\\Program.cs",
+              "RelativeToolTip": "yoshiaki-is-god\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T04:32:33.655Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
-              "DocumentMoniker": "C:\\Users\\kaede\\Documents\\\u7FA9\u7AE0\u795E\\yoshiaki-is-god\\yoshiaki-is-god\\yoshiaki-is-god\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kopoa\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\\u958B\u767A(\u524D\u671F\uFF09\\yoshiaki-is-god\\yoshiaki-is-god\\Form1.cs",
               "RelativeDocumentMoniker": "yoshiaki-is-god\\Form1.cs",
-              "ToolTip": "C:\\Users\\kaede\\Documents\\\u7FA9\u7AE0\u795E\\yoshiaki-is-god\\yoshiaki-is-god\\yoshiaki-is-god\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "ToolTip": "C:\\Users\\kopoa\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\\u958B\u767A(\u524D\u671F\uFF09\\yoshiaki-is-god\\yoshiaki-is-god\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "RelativeToolTip": "yoshiaki-is-god\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T06:02:32.62Z",
