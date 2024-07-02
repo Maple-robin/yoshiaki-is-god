@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kaede\\Documents\\義章神\\yoshiaki-is-god\\yoshiaki-is-god\\yoshiaki-is-god\\yoshiaki-is-god.csproj": {}
+    "C:\\Users\\14092\\Documents\\yoshiaki-is-god\\yoshiaki-is-god\\yoshiaki-is-god\\yoshiaki-is-god.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kaede\\Documents\\義章神\\yoshiaki-is-god\\yoshiaki-is-god\\yoshiaki-is-god\\yoshiaki-is-god.csproj": {
+    "C:\\Users\\14092\\Documents\\yoshiaki-is-god\\yoshiaki-is-god\\yoshiaki-is-god\\yoshiaki-is-god.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kaede\\Documents\\義章神\\yoshiaki-is-god\\yoshiaki-is-god\\yoshiaki-is-god\\yoshiaki-is-god.csproj",
+        "projectUniqueName": "C:\\Users\\14092\\Documents\\yoshiaki-is-god\\yoshiaki-is-god\\yoshiaki-is-god\\yoshiaki-is-god.csproj",
         "projectName": "yoshiaki-is-god",
-        "projectPath": "C:\\Users\\kaede\\Documents\\義章神\\yoshiaki-is-god\\yoshiaki-is-god\\yoshiaki-is-god\\yoshiaki-is-god.csproj",
-        "packagesPath": "C:\\Users\\kaede\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kaede\\Documents\\義章神\\yoshiaki-is-god\\yoshiaki-is-god\\yoshiaki-is-god\\obj\\",
+        "projectPath": "C:\\Users\\14092\\Documents\\yoshiaki-is-god\\yoshiaki-is-god\\yoshiaki-is-god\\yoshiaki-is-god.csproj",
+        "packagesPath": "C:\\Users\\14092\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\14092\\Documents\\yoshiaki-is-god\\yoshiaki-is-god\\yoshiaki-is-god\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kaede\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\14092\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
