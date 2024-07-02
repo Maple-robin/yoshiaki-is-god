@@ -15,3 +15,20 @@ C:\Users\kaede\Documents\義章神\yoshiaki-is-god\yoshiaki-is-god\yoshiaki-is-g
 C:\Users\kaede\Documents\義章神\yoshiaki-is-god\yoshiaki-is-god\yoshiaki-is-god\obj\Debug\net8.0-windows\yoshiaki-is-god.pdb
 C:\Users\kaede\Documents\義章神\yoshiaki-is-god\yoshiaki-is-god\yoshiaki-is-god\obj\Debug\net8.0-windows\yoshiaki-is-god.genruntimeconfig.cache
 C:\Users\kaede\Documents\義章神\yoshiaki-is-god\yoshiaki-is-god\yoshiaki-is-god\obj\Debug\net8.0-windows\ref\yoshiaki-is-god.dll
+C:\Users\kopoa\OneDrive\ドキュメント\制作 クイズ\yoshiaki-is-god\yoshiaki-is-god\yoshiaki-is-god\bin\Debug\net8.0-windows\yoshiaki-is-god.exe
+C:\Users\kopoa\OneDrive\ドキュメント\制作 クイズ\yoshiaki-is-god\yoshiaki-is-god\yoshiaki-is-god\bin\Debug\net8.0-windows\yoshiaki-is-god.deps.json
+C:\Users\kopoa\OneDrive\ドキュメント\制作 クイズ\yoshiaki-is-god\yoshiaki-is-god\yoshiaki-is-god\bin\Debug\net8.0-windows\yoshiaki-is-god.runtimeconfig.json
+C:\Users\kopoa\OneDrive\ドキュメント\制作 クイズ\yoshiaki-is-god\yoshiaki-is-god\yoshiaki-is-god\bin\Debug\net8.0-windows\yoshiaki-is-god.dll
+C:\Users\kopoa\OneDrive\ドキュメント\制作 クイズ\yoshiaki-is-god\yoshiaki-is-god\yoshiaki-is-god\bin\Debug\net8.0-windows\yoshiaki-is-god.pdb
+C:\Users\kopoa\OneDrive\ドキュメント\制作 クイズ\yoshiaki-is-god\yoshiaki-is-god\yoshiaki-is-god\obj\Debug\net8.0-windows\yoshiaki_is_god.Form1.resources
+C:\Users\kopoa\OneDrive\ドキュメント\制作 クイズ\yoshiaki-is-god\yoshiaki-is-god\yoshiaki-is-god\obj\Debug\net8.0-windows\yoshiaki-is-god.csproj.GenerateResource.cache
+C:\Users\kopoa\OneDrive\ドキュメント\制作 クイズ\yoshiaki-is-god\yoshiaki-is-god\yoshiaki-is-god\obj\Debug\net8.0-windows\yoshiaki-is-god.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kopoa\OneDrive\ドキュメント\制作 クイズ\yoshiaki-is-god\yoshiaki-is-god\yoshiaki-is-god\obj\Debug\net8.0-windows\yoshiaki-is-god.AssemblyInfoInputs.cache
+C:\Users\kopoa\OneDrive\ドキュメント\制作 クイズ\yoshiaki-is-god\yoshiaki-is-god\yoshiaki-is-god\obj\Debug\net8.0-windows\yoshiaki-is-god.AssemblyInfo.cs
+C:\Users\kopoa\OneDrive\ドキュメント\制作 クイズ\yoshiaki-is-god\yoshiaki-is-god\yoshiaki-is-god\obj\Debug\net8.0-windows\yoshiaki-is-god.csproj.CoreCompileInputs.cache
+C:\Users\kopoa\OneDrive\ドキュメント\制作 クイズ\yoshiaki-is-god\yoshiaki-is-god\yoshiaki-is-god\obj\Debug\net8.0-windows\yoshiaki-is-god.sourcelink.json
+C:\Users\kopoa\OneDrive\ドキュメント\制作 クイズ\yoshiaki-is-god\yoshiaki-is-god\yoshiaki-is-god\obj\Debug\net8.0-windows\yoshiaki-is-god.dll
+C:\Users\kopoa\OneDrive\ドキュメント\制作 クイズ\yoshiaki-is-god\yoshiaki-is-god\yoshiaki-is-god\obj\Debug\net8.0-windows\refint\yoshiaki-is-god.dll
+C:\Users\kopoa\OneDrive\ドキュメント\制作 クイズ\yoshiaki-is-god\yoshiaki-is-god\yoshiaki-is-god\obj\Debug\net8.0-windows\yoshiaki-is-god.pdb
+C:\Users\kopoa\OneDrive\ドキュメント\制作 クイズ\yoshiaki-is-god\yoshiaki-is-god\yoshiaki-is-god\obj\Debug\net8.0-windows\yoshiaki-is-god.genruntimeconfig.cache
+C:\Users\kopoa\OneDrive\ドキュメント\制作 クイズ\yoshiaki-is-god\yoshiaki-is-god\yoshiaki-is-god\obj\Debug\net8.0-windows\ref\yoshiaki-is-god.dll
