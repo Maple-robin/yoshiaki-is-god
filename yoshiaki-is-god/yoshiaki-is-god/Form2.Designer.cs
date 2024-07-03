@@ -28,22 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            button1 = new Button();
             label1 = new Label();
             label2 = new Label();
-            button2 = new Button();
-            button3 = new Button();
+            hitori = new Button();
+            taisenn = new Button();
             SuspendLayout();
-            // 
-            // button1
-            // 
-            button1.Location = new Point(308, 268);
-            button1.Name = "button1";
-            button1.Size = new Size(112, 57);
-            button1.TabIndex = 0;
-            button1.Text = "スタート";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
             // 
             // label1
             // 
@@ -62,34 +51,35 @@
             label2.Size = new Size(0, 25);
             label2.TabIndex = 2;
             // 
-            // button2
+            // hitori
             // 
-            button2.Location = new Point(155, 136);
-            button2.Name = "button2";
-            button2.Size = new Size(112, 34);
-            button2.TabIndex = 3;
-            button2.Text = "一人で";
-            button2.UseVisualStyleBackColor = true;
+            hitori.Location = new Point(155, 136);
+            hitori.Name = "hitori";
+            hitori.Size = new Size(112, 34);
+            hitori.TabIndex = 3;
+            hitori.Text = "一人で";
+            hitori.UseVisualStyleBackColor = true;
+            hitori.Click += button2_Click;
             // 
-            // button3
+            // taisenn
             // 
-            button3.Location = new Point(462, 136);
-            button3.Name = "button3";
-            button3.Size = new Size(112, 34);
-            button3.TabIndex = 4;
-            button3.Text = "対戦";
-            button3.UseVisualStyleBackColor = true;
+            taisenn.Location = new Point(462, 136);
+            taisenn.Name = "taisenn";
+            taisenn.Size = new Size(112, 34);
+            taisenn.TabIndex = 4;
+            taisenn.Text = "対戦";
+            taisenn.UseVisualStyleBackColor = true;
+            taisenn.Click += taisenn_Click;
             // 
             // Form2
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(button3);
-            Controls.Add(button2);
+            Controls.Add(taisenn);
+            Controls.Add(hitori);
             Controls.Add(label2);
             Controls.Add(label1);
-            Controls.Add(button1);
             Name = "Form2";
             Text = "Form2";
             ResumeLayout(false);
@@ -97,11 +87,9 @@
         }
 
         #endregion
-
-        private Button button1;
         private Label label1;
         private Label label2;
-        private Button button2;
-        private Button button3;
+        private Button hitori;
+        private Button taisenn;
     }
 }

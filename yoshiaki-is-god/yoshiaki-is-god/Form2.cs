@@ -17,9 +17,18 @@ namespace yoshiaki_is_god
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
+       
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form1 f1 = new Form1();
+            f1.Show();
+        }
+
+        private void taisenn_Click(object sender, EventArgs e)
+        {
+            Form1 f1 = new Form1();
+            f1.Show();
         }
     }
 }
