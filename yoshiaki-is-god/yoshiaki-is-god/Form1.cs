@@ -35,8 +35,8 @@ namespace yoshiaki_is_god
         void InitQuizes()
         {
             Quizes.Add(new Quiz("スウィーツでモンブランの「モン」フランス語の意味は？", new string[] { "果実", "山", "海", "雪" }, "山"));
-            Quizes.Add(new Quiz("慣用句「鶴の一声」の前につくのは「○の千声」？", new string[] { "はと", "きじ", "すずめ", "からす" }, "すずめ"));
-            Quizes.Add(new Quiz("メロドラマの「メロ」の元々の意味は？", new string[] { "歌", "思い出", "浮気", "キス" }, "歌"));
+            Quizes.Add(new Quiz("慣用句「鶴の一声」の前につくのは「○の千声」？", new string[] { "はと", "osamu", "すずめ", "からす" }, "すずめ"));
+            Quizes.Add(new Quiz("メロドラマの「メロ」の元々の意味は？", new string[] { "歌", "思い出", "浮気", "osamu" }, "歌"));
         }
         void ShowQuiz(int i)
         {
