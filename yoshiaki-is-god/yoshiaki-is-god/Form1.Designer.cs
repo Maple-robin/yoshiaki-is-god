@@ -127,7 +127,7 @@
             Controls.Add(labelQuestion);
             Margin = new Padding(4);
             Name = "Form1";
-            Text = "Form1";
+            Text = "問題";
             Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
