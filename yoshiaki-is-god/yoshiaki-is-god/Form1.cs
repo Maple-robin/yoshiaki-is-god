@@ -6,6 +6,8 @@ namespace yoshiaki_is_god
     {
         List<Quiz> Quizes = new List<Quiz>();
         int QuizIndex = 0; // 現在のクイズ
+        int player1 = 0;
+        String player1Click = "ture";
         public class Quiz
         {
             public Quiz(string question, string[] choices, string answer)
@@ -35,7 +37,7 @@ namespace yoshiaki_is_god
         void InitQuizes()
         {
             Quizes.Add(new Quiz("清野オサムの本名はどれか？", new string[] { "正文", "オサム", "修史", "真史" }, "オサム"));
-            Quizes.Add(new Quiz("慣用句「鶴の一声」の前につくのは「○の千声」？", new string[] { "はと", "きじ", "すずめ", "からす" }, "すずめ"));
+            Quizes.Add(new Quiz("薬師如来像は1.418 ｍ,日光菩薩像は1.694 ｍ月光菩薩像は？", new string[] { "1.726m", "1.759m", "1.739m", "1.768m" }, "1.739m"));
             Quizes.Add(new Quiz("メロドラマの「メロ」の元々の意味は？", new string[] { "歌", "思い出", "浮気", "キス" }, "歌"));
             Quizes.Add(new Quiz("スウィーツでモンブランの「モン」フランス語の意味は？", new string[] { "果実", "山", "海", "雪" }, "山"));
             Quizes.Add(new Quiz("慣用句「鶴の一声」の前につくのは「○の千声」？", new string[] { "はと", "きじ", "すずめ", "からす" }, "すずめ"));
@@ -110,6 +112,11 @@ namespace yoshiaki_is_god
         private void LabelChoices_Click(object sender, EventArgs e)
         {
             Label label = (Label)sender;
+            if (((labelChoices1.Visible == true) || (labelChoices2.Visible == true) || (labelChoices3.Visible == true) || (labelChoices4.Visible == true)) && (Judg(QuizIndex, label.Text) && (player1Click == "false")))
+            {
+                player1++;
+                label5.Text = player1.ToString();
+            }
 
             labelResult.ForeColor = Color.White;
             if (Judg(QuizIndex, label.Text))
@@ -174,6 +181,30 @@ namespace yoshiaki_is_god
 
             // 次の問題が表示されるので、これまで表示されていた問題の結果は非表示にする
             labelResult.Visible = false;
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+        }
+
+        private void labelChoices1_Click(object sender, EventArgs e)
+        {
+            player1Click = "false";
+        }
+
+        private void labelChoices2_Click(object sender, EventArgs e)
+        {
+            player1Click = "false";
+        }
+
+        private void labelChoices3_Click(object sender, EventArgs e)
+        {
+            player1Click = "false";
+        }
+
+        private void labelChoices4_Click(object sender, EventArgs e)
+        {
+            player1Click = "false";
         }
     }
 }
