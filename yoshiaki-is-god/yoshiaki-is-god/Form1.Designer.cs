@@ -36,6 +36,7 @@
             buttonPrev = new Button();
             buttonNext = new Button();
             labelResult = new Label();
+            label5 = new Label();
             SuspendLayout();
             // 
             // labelQuestion
@@ -55,6 +56,7 @@
             labelChoices1.Size = new Size(120, 25);
             labelChoices1.TabIndex = 1;
             labelChoices1.Text = "labelChoices1";
+            labelChoices1.Click += labelChoices1_Click;
             // 
             // labelChoices2
             // 
@@ -64,6 +66,7 @@
             labelChoices2.Size = new Size(120, 25);
             labelChoices2.TabIndex = 2;
             labelChoices2.Text = "labelChoices2";
+            labelChoices2.Click += labelChoices2_Click;
             // 
             // labelChoices3
             // 
@@ -73,6 +76,7 @@
             labelChoices3.Size = new Size(120, 25);
             labelChoices3.TabIndex = 3;
             labelChoices3.Text = "labelChoices3";
+            labelChoices3.Click += labelChoices3_Click;
             // 
             // labelChoices4
             // 
@@ -82,6 +86,7 @@
             labelChoices4.Size = new Size(120, 25);
             labelChoices4.TabIndex = 4;
             labelChoices4.Text = "labelChoices4";
+            labelChoices4.Click += labelChoices4_Click;
             // 
             // buttonPrev
             // 
@@ -112,11 +117,22 @@
             labelResult.TabIndex = 7;
             labelResult.Text = "labelResult";
             // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.Location = new Point(688, 224);
+            label5.Name = "label5";
+            label5.Size = new Size(59, 25);
+            label5.TabIndex = 8;
+            label5.Text = "label1";
+            label5.Click += label5_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1000, 562);
+            Controls.Add(label5);
             Controls.Add(labelResult);
             Controls.Add(buttonNext);
             Controls.Add(buttonPrev);
@@ -127,7 +143,7 @@
             Controls.Add(labelQuestion);
             Margin = new Padding(4);
             Name = "Form1";
-            Text = "Form1";
+            Text = "問題";
             Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
@@ -143,5 +159,6 @@
         private Button buttonPrev;
         private Button buttonNext;
         private Label labelResult;
+        private Label label5;
     }
 }
