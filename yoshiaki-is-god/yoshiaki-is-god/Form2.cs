@@ -27,8 +27,8 @@ namespace yoshiaki_is_god
 
         private void taisenn_Click(object sender, EventArgs e)
         {
-            Form1 f1 = new Form1();
-            f1.Show();
+            Form3 f3 = new Form3();
+            f3.Show();
         }
     }
 }
