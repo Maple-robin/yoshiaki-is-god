@@ -17,7 +17,7 @@ namespace yoshiaki_is_god
             InitializeComponent();
         }
 
-       
+
 
         private void button2_Click(object sender, EventArgs e)
         {
@@ -29,6 +29,11 @@ namespace yoshiaki_is_god
         {
             Form3 f3 = new Form3();
             f3.Show();
+        }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

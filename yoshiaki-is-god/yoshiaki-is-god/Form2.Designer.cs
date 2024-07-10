@@ -82,6 +82,7 @@
             Controls.Add(label1);
             Name = "Form2";
             Text = "モード選択";
+            Load += Form2_Load;
             ResumeLayout(false);
             PerformLayout();
         }
