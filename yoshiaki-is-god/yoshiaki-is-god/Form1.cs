@@ -118,6 +118,11 @@ namespace yoshiaki_is_god
                 player1++;
                 label5.Text = player1.ToString();
             }
+            if (((labelChoices1.Visible == true) || (labelChoices2.Visible == true) || (labelChoices3.Visible == true) || (labelChoices4.Visible == true)) && (Judg(QuizIndex, label.Text)==false) && (player1Click == "false"))
+            {
+                player1--;
+                label5.Text = player1.ToString();
+            }
 
             labelResult.ForeColor = Color.White;
             if (Judg(QuizIndex, label.Text))
