@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("yoshiaki-is-god")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78d05aa9f91d21bf4cbc7cd34694c61f47687052")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+060baf320623531d0f9991944e68c50134d87fa1")]
 [assembly: System.Reflection.AssemblyProductAttribute("yoshiaki-is-god")]
 [assembly: System.Reflection.AssemblyTitleAttribute("yoshiaki-is-god")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
