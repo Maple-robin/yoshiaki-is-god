@@ -37,6 +37,7 @@
             buttonNext = new Button();
             labelResult = new Label();
             label5 = new Label();
+            label1 = new Label();
             SuspendLayout();
             // 
             // labelQuestion
@@ -127,11 +128,21 @@
             label5.Text = "label1";
             label5.Click += label5_Click;
             // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(730, 97);
+            label1.Name = "label1";
+            label1.Size = new Size(59, 25);
+            label1.TabIndex = 9;
+            label1.Text = "label1";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1000, 562);
+            Controls.Add(label1);
             Controls.Add(label5);
             Controls.Add(labelResult);
             Controls.Add(buttonNext);
@@ -160,5 +171,6 @@
         private Button buttonNext;
         private Label labelResult;
         private Label label5;
+        private Label label1;
     }
 }

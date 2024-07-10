@@ -32,3 +32,4 @@ C:\Users\14092\Documents\yoshiaki-is-god\yoshiaki-is-god\yoshiaki-is-god\obj\Deb
 C:\Users\14092\Documents\yoshiaki-is-god\yoshiaki-is-god\yoshiaki-is-god\obj\Debug\net8.0-windows\yoshiaki-is-god.pdb
 C:\Users\14092\Documents\yoshiaki-is-god\yoshiaki-is-god\yoshiaki-is-god\obj\Debug\net8.0-windows\yoshiaki-is-god.genruntimeconfig.cache
 C:\Users\14092\Documents\yoshiaki-is-god\yoshiaki-is-god\yoshiaki-is-god\obj\Debug\net8.0-windows\ref\yoshiaki-is-god.dll
+C:\Users\kaede\Documents\義章神\yoshiaki-is-god\yoshiaki-is-god\yoshiaki-is-god\obj\Debug\net8.0-windows\yoshiaki_is_god.Form2.resources
