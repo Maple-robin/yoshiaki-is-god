@@ -41,7 +41,7 @@
             // labelQuestion
             // 
             labelQuestion.AutoSize = true;
-            labelQuestion.Location = new Point(402, 31);
+            labelQuestion.Location = new Point(396, 37);
             labelQuestion.Name = "labelQuestion";
             labelQuestion.Size = new Size(126, 25);
             labelQuestion.TabIndex = 0;
@@ -59,7 +59,7 @@
             // labelChoices2
             // 
             labelChoices2.AutoSize = true;
-            labelChoices2.Location = new Point(402, 112);
+            labelChoices2.Location = new Point(402, 110);
             labelChoices2.Name = "labelChoices2";
             labelChoices2.Size = new Size(120, 25);
             labelChoices2.TabIndex = 2;
