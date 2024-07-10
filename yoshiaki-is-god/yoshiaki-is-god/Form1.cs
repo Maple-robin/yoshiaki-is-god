@@ -64,12 +64,21 @@ namespace yoshiaki_is_god
             Quizes.Add(new Quiz("慣用句「鶴の一声」の前につくのは「○の千声」？", new string[] { "はと", "きじ", "すずめ", "からす" }, "すずめ"));
             Quizes.Add(new Quiz("メロドラマの「メロ」の元々の意味は？", new string[] { "歌", "思い出", "浮気", "キス" }, "歌"));
             Quizes.Add(new Quiz("スウィーツでモンブランの「モン」フランス語の意味は？", new string[] { "果実", "山", "海", "雪" }, "山"));
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
             Quizes.Add(new Quiz("慣用句「鶴の一声」の前につくのは「○の千声」？", new string[] { "はと", "osamu", "すずめ", "からす" }, "すずめ"));
             Quizes.Add(new Quiz("メロドラマの「メロ」の元々の意味は？", new string[] { "歌", "思い出", "浮気", "osamu" }, "歌"));
             Quizes.Add(new Quiz("メロドラマの「メロ」の元々の意味は？", new string[] { "歌", "思い出", "浮気", "osamu" }, "歌"));
+
             Quizes.Add(new Quiz("慣用句「鶴の一声」の前につくのは「○の千声」？", new string[] { "はと", "きじ", "すずめ", "からす" }, "すずめ"));
             Quizes.Add(new Quiz("メロドラマの「メロ」の元々の意味は？", new string[] { "歌", "思い出", "浮気", "キス" }, "歌"));
             Quizes.Add(new Quiz("清野オサムの本名はどれか？", new string[] { "正文", "オサム", "修史", "真史" }, "オサム"));
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
         }
         void ShowQuiz(int i)
         {
@@ -214,14 +223,6 @@ namespace yoshiaki_is_god
         private void labelChoices4_Click(object sender, EventArgs e)
         {
             player1Click = "false";
-        }
-        private void labelChoices1_KeyDown(object sender, KeyEventArgs e)
-        {
-            //F1キーが押されたか調べる
-            if (e.KeyData == Keys.A)
-            {
-                label1.Text = "F1";
-            }
         }
     }
 }
