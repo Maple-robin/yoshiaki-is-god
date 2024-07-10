@@ -42,18 +42,20 @@
             // labelQuestion
             // 
             labelQuestion.AutoSize = true;
-            labelQuestion.Location = new Point(396, 37);
+            labelQuestion.Location = new Point(317, 30);
+            labelQuestion.Margin = new Padding(2, 0, 2, 0);
             labelQuestion.Name = "labelQuestion";
-            labelQuestion.Size = new Size(126, 25);
+            labelQuestion.Size = new Size(105, 20);
             labelQuestion.TabIndex = 0;
             labelQuestion.Text = " labelQuestion";
             // 
             // labelChoices1
             // 
             labelChoices1.AutoSize = true;
-            labelChoices1.Location = new Point(402, 71);
+            labelChoices1.Location = new Point(322, 57);
+            labelChoices1.Margin = new Padding(2, 0, 2, 0);
             labelChoices1.Name = "labelChoices1";
-            labelChoices1.Size = new Size(120, 25);
+            labelChoices1.Size = new Size(101, 20);
             labelChoices1.TabIndex = 1;
             labelChoices1.Text = "labelChoices1";
             labelChoices1.Click += labelChoices1_Click;
@@ -61,9 +63,10 @@
             // labelChoices2
             // 
             labelChoices2.AutoSize = true;
-            labelChoices2.Location = new Point(402, 110);
+            labelChoices2.Location = new Point(322, 88);
+            labelChoices2.Margin = new Padding(2, 0, 2, 0);
             labelChoices2.Name = "labelChoices2";
-            labelChoices2.Size = new Size(120, 25);
+            labelChoices2.Size = new Size(101, 20);
             labelChoices2.TabIndex = 2;
             labelChoices2.Text = "labelChoices2";
             labelChoices2.Click += labelChoices2_Click;
@@ -71,9 +74,10 @@
             // labelChoices3
             // 
             labelChoices3.AutoSize = true;
-            labelChoices3.Location = new Point(402, 148);
+            labelChoices3.Location = new Point(322, 118);
+            labelChoices3.Margin = new Padding(2, 0, 2, 0);
             labelChoices3.Name = "labelChoices3";
-            labelChoices3.Size = new Size(120, 25);
+            labelChoices3.Size = new Size(101, 20);
             labelChoices3.TabIndex = 3;
             labelChoices3.Text = "labelChoices3";
             labelChoices3.Click += labelChoices3_Click;
@@ -81,18 +85,20 @@
             // labelChoices4
             // 
             labelChoices4.AutoSize = true;
-            labelChoices4.Location = new Point(402, 187);
+            labelChoices4.Location = new Point(322, 150);
+            labelChoices4.Margin = new Padding(2, 0, 2, 0);
             labelChoices4.Name = "labelChoices4";
-            labelChoices4.Size = new Size(120, 25);
+            labelChoices4.Size = new Size(101, 20);
             labelChoices4.TabIndex = 4;
             labelChoices4.Text = "labelChoices4";
             labelChoices4.Click += labelChoices4_Click;
             // 
             // buttonPrev
             // 
-            buttonPrev.Location = new Point(314, 265);
+            buttonPrev.Location = new Point(251, 212);
+            buttonPrev.Margin = new Padding(2);
             buttonPrev.Name = "buttonPrev";
-            buttonPrev.Size = new Size(112, 34);
+            buttonPrev.Size = new Size(90, 27);
             buttonPrev.TabIndex = 5;
             buttonPrev.Text = "前へ";
             buttonPrev.UseVisualStyleBackColor = true;
@@ -100,9 +106,10 @@
             // 
             // buttonNext
             // 
-            buttonNext.Location = new Point(511, 265);
+            buttonNext.Location = new Point(409, 212);
+            buttonNext.Margin = new Padding(2);
             buttonNext.Name = "buttonNext";
-            buttonNext.Size = new Size(112, 34);
+            buttonNext.Size = new Size(90, 27);
             buttonNext.TabIndex = 6;
             buttonNext.Text = "次へ";
             buttonNext.UseVisualStyleBackColor = true;
@@ -111,27 +118,28 @@
             // labelResult
             // 
             labelResult.AutoSize = true;
-            labelResult.Location = new Point(402, 224);
+            labelResult.Location = new Point(322, 179);
+            labelResult.Margin = new Padding(2, 0, 2, 0);
             labelResult.Name = "labelResult";
-            labelResult.Size = new Size(97, 25);
+            labelResult.Size = new Size(29, 20);
             labelResult.TabIndex = 7;
-            labelResult.Text = "labelResult";
+            labelResult.Text = "     ";
             // 
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(688, 224);
+            label5.Location = new Point(550, 179);
+            label5.Margin = new Padding(2, 0, 2, 0);
             label5.Name = "label5";
-            label5.Size = new Size(59, 25);
+            label5.Size = new Size(0, 20);
             label5.TabIndex = 8;
-            label5.Text = "label1";
             label5.Click += label5_Click;
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(10F, 25F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1000, 562);
+            ClientSize = new Size(800, 450);
             Controls.Add(label5);
             Controls.Add(labelResult);
             Controls.Add(buttonNext);
@@ -141,7 +149,6 @@
             Controls.Add(labelChoices2);
             Controls.Add(labelChoices1);
             Controls.Add(labelQuestion);
-            Margin = new Padding(4);
             Name = "Form1";
             Text = "問題";
             Load += Form1_Load;
